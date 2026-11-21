@@ -1,0 +1,40 @@
+{
+  "name": "Student Demo",
+  "email": "student.demo@tu-dortmund.de",
+  "phone": "+49 151 23456789",
+  "university": "TU Dortmund",
+  "status": "enrolled",
+  "city": "Dortmund",
+  "willing_to_commute_to": [
+    "Dortmund",
+    "Bochum",
+    "Herne",
+    "Unna",
+    "Witten",
+    "Essen",
+    "Münster",
+    "Remote"
+  ],
+  "max_hours_per_week": 20,
+  "min_pay_eur_per_hour": 14,
+  "skills": [
+    "Python",
+    "C/C++",
+    "SQL",
+    "Linux",
+    "Networking",
+    "Wireshark",
+    "IT security",
+    "English"
+  ],
+  "languages": {
+    "German": "B2",
+    "English": "C1"
+  },
+  "SENSITIVE": {
+    "iban": "DE89370400440532013000",
+    "id_card_no": "T22000129",
+    "birthdate": "2003-04-12",
+    "home_address": "Musterstr. 1, 44227 Dortmund"
+  }
+}

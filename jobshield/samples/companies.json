@@ -1,0 +1,10 @@
+{
+ "Nordlicht Software GmbH": {"register": "HRB 18231, Amtsgericht Münster", "founded": 2014, "website": "nordlicht-software.de", "reviews": {"rating": 4.1, "count": 37, "snippets": ["Fair pay for Werkstudenten", "Flexible around exams"]}},
+ "Westfalen CyberDefense GmbH": {"register": "HRB 30412, Amtsgericht Dortmund", "founded": 2019, "website": "westfalen-cyberdefense.de", "reviews": {"rating": 4.4, "count": 22, "snippets": ["Great mentoring", "Real SOC work, not coffee runs"]}},
+ "TU Dortmund - Fakultät Informatik": {"register": "Public university (Körperschaft öffentlichen Rechts)", "founded": 1968, "website": "tu-dortmund.de", "reviews": {"rating": 4.0, "count": 120, "snippets": ["Standard HiWi contract", "Paid on time"]}},
+ "Café Kornblume": {"register": "Sole proprietorship, Gewerbeamt Münster", "founded": 2017, "website": "cafe-kornblume.de", "reviews": {"rating": 2.9, "count": 14, "snippets": ["Unpaid trial days", "Paid below minimum wage, cash only"]}},
+ "Kanzlei Brink & Partner": {"register": "PR 112, Amtsgericht Essen", "founded": 2002, "website": "brink-partner.de", "reviews": {"rating": 3.6, "count": 9, "snippets": ["Strict but fair", "Expects more hours than agreed"]}},
+ "Global Logistic Partners": {"register": null, "founded": null, "website": null, "reviews": {"rating": 1.2, "count": 48, "snippets": ["Police came to my door about stolen goods", "Never got paid, they had my ID"]}},
+ "TestFlow Digital": {"register": null, "founded": null, "website": null, "reviews": {"rating": 1.0, "count": 31, "snippets": ["Bank accounts opened in my name", "Verbraucherzentrale warning issued"]}},
+ "BitNova Capital": {"register": null, "founded": null, "website": null, "reviews": {"rating": 1.1, "count": 65, "snippets": ["Paid the 199€ fee, never heard back", "BaFin warning list"]}}
+}

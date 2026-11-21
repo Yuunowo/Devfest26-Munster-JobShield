@@ -1,0 +1,7 @@
+{
+  "min_wage_eur_per_hour": 13.90,
+  "werkstudent_max_hours_semester": 20,
+  "student_typical_pay_range": [13.90, 25.0],
+  "verified_employers": ["Nordlicht Software GmbH", "Westfalen CyberDefense GmbH", "Café Kornblume", "TU Dortmund - Fakultät Informatik", "Kanzlei Brink & Partner"],
+  "scam_block_threshold": 60
+}
